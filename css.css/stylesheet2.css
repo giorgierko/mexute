@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Imbue';
+    src: url('../fonts/Imbue-Regular.eot');
+    src: url('../fonts/Imbue-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Imbue-Regular.woff2') format('woff2'),
+        url('../fonts/Imbue-Regular.woff') format('woff'),
+        url('../fonts/Imbue-Regular.ttf') format('truetype'),
+        url('../fonts/Imbue-Regular.svg#Imbue-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
