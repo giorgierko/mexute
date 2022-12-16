@@ -36,7 +36,7 @@ nav {
     background-color: #306B34;
     padding-top: 174px;
     padding-left: 95px;
-    padding-right: 111px;
+    padding-right: 94px;
     padding-bottom: 152px;
  }
 
@@ -44,7 +44,7 @@ nav {
 
     width: 679px;
     height: 453px;
-    margin-right: 70px;
+    margin-right: 78px;
  }
 
  div {
@@ -53,12 +53,38 @@ nav {
     height: 394px;
     display: inline-block;
     vertical-align: top;
+
  }
 
- p {
+ .text1{
 
     margin-top: 70px;
  }
  
+ article {
 
+    width: 1280px;
+    margin: 0 auto;
+    padding-top: 55px;
+    padding-right: 129px;
+    padding-bottom: 150px;
+    padding-left: 185px;
+ }
 
+ .artpic {
+    width: 273px;
+    height: 98px;
+    /* სურათი რა კოდით შეიძლება ჰორიზონტალურად გაიცენტროს
+    ? სათითაოდ მარჯინების გაწერა რომ არ დამჭირდეს */
+    margin-top: 75px;
+    margin-bottom: 82px;
+    margin-left: 305px;
+ 
+   
+}
+
+.text2 { 
+    display: inline-block;
+    width: 958px;
+
+}
