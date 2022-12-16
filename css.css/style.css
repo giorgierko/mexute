@@ -1,0 +1,33 @@
+header {
+width: 1280px;
+border:  2px solid red;
+margin: 0 auto;
+padding-left: 44px;
+padding-top: 16px;
+padding-right: 67px;
+padding-bottom:40px ;
+
+}
+.headpic {
+    
+    width: 374px;
+    height: 94px;
+    vertical-align: middle;
+    
+}
+
+nav {
+ display: inline-block;
+ margin-left: 22px;
+ margin-right: 174px;
+ }
+
+ li {
+
+    display: inline-block;
+    margin-right: 75px;
+
+    /* li ერთმანეთისგან უნდა იყოს დაშრებული 100 პიქსელით. ვერ ვაშორებ, სავარაუდოდ ადგილი არ ყოფნის. */
+ }
+
+
