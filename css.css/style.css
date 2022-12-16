@@ -1,6 +1,6 @@
 header {
 width: 1280px;
-border:  2px solid red;
+/* border:  2px solid red; */
 margin: 0 auto;
 padding-left: 44px;
 padding-top: 16px;
@@ -29,5 +29,36 @@ nav {
 
     /* li ერთმანეთისგან უნდა იყოს დაშრებული 100 პიქსელით. ვერ ვაშორებ, სავარაუდოდ ადგილი არ ყოფნის. */
  }
+
+ section {
+    width: 1280px;
+    margin: 0 auto;
+    background-color: #306B34;
+    padding-top: 174px;
+    padding-left: 95px;
+    padding-right: 111px;
+    padding-bottom: 152px;
+ }
+
+ .mainpic {
+
+    width: 679px;
+    height: 453px;
+    margin-right: 70px;
+ }
+
+ div {
+
+    width: 306px;
+    height: 394px;
+    display: inline-block;
+    vertical-align: top;
+ }
+
+ p {
+
+    margin-top: 70px;
+ }
+ 
 
 
