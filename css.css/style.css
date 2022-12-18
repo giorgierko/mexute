@@ -13,19 +13,20 @@ padding-bottom:40px ;
     width: 374px;
     height: 94px;
     vertical-align: middle;
+    margin-right: 74px;
     
 }
 
 nav {
  display: inline-block;
- margin-left: 22px;
- margin-right: 174px;
+ /* margin-left: 22px; */
+ /* margin-right: 174px; */
  }
 
  li {
 
     display: inline-block;
-    margin-right: 75px;
+    margin-right: 104px;
     font-size: 18px;
     color: #7F7F7F;
     font-family: 'Roboto';
@@ -72,6 +73,7 @@ nav {
 
     width: 1280px;
     margin: 0 auto;
+    text-align: center;
     padding-top: 55px;
     padding-right: 129px;
     padding-bottom: 150px;
@@ -83,9 +85,9 @@ nav {
     height: 98px;
     /* სურათი რა კოდით შეიძლება ჰორიზონტალურად გაიცენტროს
     ? სათითაოდ მარჯინების გაწერა რომ არ დამჭირდეს */
-    margin-top: 75px;
+    /* margin-top: 75px;
     margin-bottom: 82px;
-    margin-left: 305px;
+    margin-left: 305px; */
  
    
 }
